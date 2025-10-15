@@ -12,8 +12,6 @@ A small command-line task tracker that stores tasks in `tasks.json` in the curre
 
 - `jsonSt.py` — JSON file creation/read/write utilities.
 
-- `tasks.json` — example storage file (created automatically when you run the program if missing).
-
 - `requirements.txt` — Python dependency list (`tabulate`).
 
 ## Quick setup
